@@ -22,7 +22,7 @@ const responsive = {
     }
   };
 const Image=styled('img')({
-    width:'1450px',
+    width:'100%',
     height: '530px',
 })
 const designedCarousel=styled('Carousel')`
